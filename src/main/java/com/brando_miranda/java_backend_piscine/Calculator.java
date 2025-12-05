@@ -1,8 +1,8 @@
-
+package com.brando_miranda.java_backend_piscine;
 
 import java.util.Scanner;
 
-public class Main {
+public class Calculator {
 
     public static double calcular(double num1, double num2, String operacao) throws OperacaoInvalidaException {
 
